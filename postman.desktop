@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=5.5.0
+Type=Application
+Name=Postman
+Icon=/usr/local/Postman/resources/app/assets/icon.png
+Exec="/usr/local/Postman/Postman" %f
+Comment=Postman App
+Categories=Development;
+Terminal=false
+StartupNotify=true
