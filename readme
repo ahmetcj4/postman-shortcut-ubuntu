@@ -1,3 +1,0 @@
-move this file to /usr/share/applications/ folder
-
-....$ sudo mv postman.desktop /usr/share/applications/
